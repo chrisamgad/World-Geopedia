@@ -1,0 +1,271 @@
+,CountryName,CapitalCity,Area,Governor,Coordinates,Population
+0,Algeria,Algiers,363.0,Abdelkader Seyouda ,3°3′32″E36°45′14″N,3915811.0
+1,Angola,Luanda,116.0,Null,13°14′4″E8°50′18″S,2571861.0
+2,Benin,Porto-Novo,110.0,Emmanuel Zossou,2°36′18″E6°29′50″N,264320.0
+3,Botswana,Gaborone,169.0,Thata Father Maphongo ,25°54′44″E24°39′29″S,231626.0
+4,Burkina Faso,Ouagadougou,520.0,Armand Béouindé ,1°32′W12°22′N,2453496.0
+5,Burundi,Gitega,22.0,Null,29°54′E3°26′S,135467.0
+6,Cameroon,Yaoundé,180.0,Null,11°31′E3°52′N,2765600.0
+7,Cape Verde,Praia,102.6,Null,23°30′32″W14°55′05″N,159050.0
+8,Central African Republic,Bangui,67.0,Emile Raymond Gros Nakombo ,18°33′46″E04°22′24″N,889231.0
+9,Chad,N'Djamena,104.0,Null,15°03′00″E12°06′36″N,916000.0
+10,Comoros,Moroni,30.0,Null,43°15′22″E11°41′56″S,111326.0
+11,Democratic Republic of the Congo,Kinshasa,9965.0,Gentiny Ngobila Mbala,15°19′20″E4°19′30″S,17071000.0
+12,Republic of the Congo,Brazzaville,263.9,Dieudonné Bantsimba,15°17′31″E4°16′4″S,1696392.0
+13,Djibouti,Djibouti,26.0,Fatouma Awaleh Osman,43°08′42″E11°35′18″N,600000.0
+14,Egypt,Cairo,3085.12,Khaled Abdel Aal,31°14′E30°2′N,1539673.0
+15,Equatorial Guinea,Malabo,21.0,Null,8°46′25.32″E3°45′7.43″N,297000.0
+16,Eritrea,Asmara,45.0,Fshaye Haile,38°55′30″E15°19′22″N,963000.0
+17,Eswatini,Mbabane,81.76,Sikhumbuzo Dube,31°08′E26°19′S,94874.0
+18,Ethiopia,Addis Ababa,527.0,Adanech Abebe,38°44′24″E9°1′48″N,3384569.0
+19,Gabon,Libreville,65.42,Null,9°27′15″E0°23′25″N,703904.0
+20,The Gambia,Banjul,12.0,Rohey Malick Lowe,16°34′39″W13°27′11″N,73000.0
+21,Ghana,Accra,173.0,Null,0°12′W5°33′N,5055900.0
+22,Guinea,Conakry,450.0,Null,13°42′44″W09°30′33″N,1660973.0
+23,Guinea-Bissau,Bissau,77.5,Null,15°34′W11°51′N,492004.0
+24,Ivory Coast,Yamoussoukro,3500.0,Augustin Abdoulaye Thiam Houphouët,05°16′27″W06°48′58″N,361893.0
+25,Kenya,Nairobi,696.0,Anne Kananu Mwenda,36°49′02″E01°17′11″S,4397073.0
+26,Lesotho,Maseru,138.0,Null,27°29′E29°19′S,330760.0
+27,Liberia,Monrovia,75.0,Jefferson T. Koijee,10°48′5″W6°18′48″N,1010970.0
+28,Libya,Tripoli,1507.0,Abdulrauf Beitelmal,13°11′29″E32°53′14″N,1170000.0
+29,Madagascar,Antananarivo,85.01,Naina Andriantsitohaina,47°31′E18°56′S,1275207.0
+30,Malawi,Lilongwe,727.79,Juliana Kaduya,33°47′E13°59′S,989318.0
+31,Mali,Bamako,245.0,Null,8°0′10″W12°38′21″N,2713000.0
+32,Mauritania,Nouakchott,1000.0,Null,15°58′43″W18°05′09″N,1195600.0
+33,Mauritius,Port Louis,46.7,Daniel Eric Clive Laurent,57°30′15″E20°9′52″S,147066.0
+34,Morocco,Rabat,117.0,Asmaa Rhlalou,6°50′W34°02′N,577827.0
+35,Mozambique,Maputo,347.69,Iolanda Cintura,32°35′E25°58′S,1088449.0
+36,Namibia,Windhoek,5133.0,Job Amupanda ,17°5′1″E22°34′12″S,431000.0
+37,Niger,Niamey,239.3,Assane Seydou Sanda,2°7′31″E13°30′42″N,1026848.0
+38,Nigeria,Abuja,1769.0,Null,7°29′E9°4′N,1235880.0
+39,Rwanda,Kigali,730.0,Pudence Rubingisa,30°3′34″E1°56′38″S,1132686.0
+40,São Tomé and Príncipe,São Tomé,17.0,Null,6°43′50″E0°20′10″N,71868.0
+41,Senegal,Dakar,83.0,Soham El Wardini ,17°26′48″W14°41′34″N,1146052.0
+42,Seychelles,Victoria,20.1,David André,55°27′E4°37′S,26450.0
+43,Sierra Leone,Freetown,81.48,Yvonne Aki-Sawyerr,13°14′4″W8°29′4″N,1055964.0
+44,Somalia,Mogadishu,,Omar M. Finnish,45°20′E02°02′N,5488000.0
+45,South Africa,Pretoria,687.54,Randall Williams ,28°11′17″E25°44′46″S,2472612.0
+46,South Sudan,Juba,52.0,Stephen Wani Michael,31°36′E4°51′N,525953.0
+47,Sudan,Khartoum,1010.0,Null,32°33′36″E15°30′2″N,639598.0
+48,Tanzania,Dodoma,2576.0,Davis G. Mwamfupe,35°44′31″E6°10′23″S,2245800.0
+49,Togo,Lomé,99.14,Aouissi Lodé,1°13′22″E6°7′55″N,837437.0
+50,Tunisia,Tunis,212.63,Souad Abderrahim ,10°10′54″E36°48′23″N,638845.0
+51,Uganda,Kampala,189.0,Erias Lukwago,32°34′52″E00°18′49″N,1680600.0
+52,Zambia,Lusaka,418.0,Miles Sampa,28°17′E15°25′S,1747152.0
+53,Zimbabwe,Harare,960.6,Jacob Mafume ,31°3′8″E17°49′45″S,2123132.0
+54,Sahrawi Arab Democratic Republic,El Aaiún,21.0,Null,13°12′12″W27°9′13″N,217732.0
+55,Somaliland,Hargeisa,78.0,Abdikarim Ahmed Mooge,44°4′3″E9°33′47″N,1200000.0
+56,Bouvet Island,Unspecified,,Null,,
+57,British Indian Ocean Territory,Camp Justice,,Null,,
+58,French Southern and Antarctic Lands,Saint Pierre,,Michel Fontaine,55°28′40″E21°20′31″S,890.0
+59,Heard Island and McDonald Islands,Unspecified,,Null,,
+60,Mayotte,Unspecified,,Null,,
+61,Réunion,Unspecified,,Null,,
+62,"Saint Helena, Ascension and Tristan da Cunha",Jamestown,3.6,Null,5°43′5″W15°55′28″S,630.0
+63,Afghanistan,Kabul,1028.24,Hamdullah Nomani,69°10′42″E34°31′31″N,4601789.0
+64,Armenia,Yerevan,223.0,Hayk Marutyan,44°30′52″E40°10′53″N,1060138.0
+65,Azerbaijan,Baku,2140.0,Eldar Azizov,49°52′56″E40°23′43″N,2293100.0
+66,Bahrain,Manama,30.0,Hamad bin Isa Al Khalifa,50°34′39″E26°13′30″N,200000.0
+67,Bangladesh,Dhaka,306.0,Atiqul Islam,90°23′20″E23°45′50″N,
+68,Bhutan,Thimphu,26.1,Null,89°38′10″E27°28′20″N,114551.0
+69,Brunei,Bandar Seri Begawan,100.36,Null,114°56′32″E4°53′25″N,100700.0
+70,Cambodia,Phnom Penh,679.0,Khuong Sreng ,104°55′16″E11°34′10″N,2281951.0
+71,China,Beijing,16410.5,Null,116°23′51″E39°54′24″N,21893095.0
+72,Cyprus,Nicosia,51.06,Constantinos Yiorkadjis ,33°21′54″E35°10′21″N,
+73,East Timor,Dili,48.27,Null,125°34′42″E08°33′13″S,222323.0
+74,Georgia (country),Tbilisi,504.2,Kakha Kaladze ,44°47′33″E41°43′21″N,1171100.0
+75,India,New Delhi,42.7,Null,77°12′32″E28°36′50″N,257803.0
+76,Indonesia,Jakarta,664.01,Anies Baswedan,106°49′E6°12′S,10562088.0
+77,Iran,Tehran,615.0,Alireza Zakani,51°23′20″E35°41′21″N,11800.0
+78,Iraq,Baghdad,673.0,Alaa Al-Amari,44°23′E33°20′N,8126755.0
+79,Israel,Jerusalem,125156.0,Null,35°13′E31°47′N,936425.0
+80,Japan,Tokyo,2194.07,Yuriko Koike ,139°41′32″E35°41′23″N,14043239.0
+81,Jordan,Amman,1680.0,Noor Alnazer Farah Nabulsi,35°55′58″E31°56′59″N,4536500.0
+82,Kazakhstan,Nur-Sultan,810.2,Null,71°26′E51°10′N,1136008.0
+83,North Korea,Pyongyang,2000.0,Null,125°44′17″E39°1′10″N,2870000.0
+84,South Korea,Seoul,605.21,Oh Se-hoon ,126°59′24″E37°33′36″N,9733509.0
+85,Kuwait,Kuwait City,,Null,47°58′42″E29°22′11″N,6000000.0
+86,Kyrgyzstan,Bishkek,169.9,Aibek Dzhunushaliev,74°36′44″E42°52′29″N,1053915.0
+87,Laos,Vientiane,3920.0,Null,102°36′E17°58′N,948477.0
+88,Lebanon,Beirut,19.8,Marwan Abboud,35°30′47″E33°53′13″N,
+89,Malaysia,Putrajaya,49.0,Null,101°41′24″E02°55′48″N,91900.0
+90,Maldives,Malé,1.95,Dr. Mohamed Muiz,73°30′32″E4°10′31″N,133412.0
+91,Mongolia,Ulaanbaatar,4704.4,Dolgorsürengiin Sumyaabazar ,106°55′02″E47°55′13″N,1466125.0
+92,Myanmar,Naypyidaw,7054.37,Null,96°06′54″E19°44′51″N,924608.0
+93,Nepal,Kathmandu,49.45,Bidya Sundar Shakya ,85°19′26″E27°43′02″N,975453.0
+94,Oman,Muscat,273.9,Null,58°24′30″E23°35′20″N,450.0
+95,Pakistan,Islamabad,220.0,Peer Adil Shah Gillani,73°03′50″E33°41′35″N,1014825.0
+96,State of Palestine,Unspecified,,Null,,
+97,Philippines,Manila,42.88,Isko Moreno ,120°59′E14°36′N,1846513.0
+98,Qatar,Doha,132.0,Null,51°32′0″E25°17′12″N,2382000.0
+99,Russia,Moscow,2561.5,Sergey Sobyanin,37°37′2″E55°45′21″N,12506468.0
+100,Saudi Arabia,Riyadh,1973.0,Faisal bin Bandar Al Saud,46°43′E24°38′N,7676654.0
+101,Singapore,Unspecified,,Null,,
+102,Sri Lanka,Sri Jayawardenepura Kotte,17.0,I M V Premalal ,79°55′E6°55′N,115826.0
+103,Syria,Damascus,105.0,Null,36°17′31″E33°30′47″N,2079000.0
+104,Tajikistan,Dushanbe,203.1825,Rustam Emomali ,68°46′48″E38°32′12″N,863400.0
+105,Thailand,Bangkok,1568.737,Aswin Kwanmuang,100°29′39″E13°45′09″N,8305218.0
+106,Turkey,Ankara,24521.0,Mansur Yavaş ,32°51′00″E39°55′48″N,5663322.0
+107,Turkmenistan,Ashgabat,917.6,Ýaztagan Gylyjow,58°22′48″E37°56′15″N,1031992.0
+108,United Arab Emirates,Abu Dhabi,972.0,Null,54°22′E24°28′N,1450000.0
+109,Uzbekistan,Tashkent,334.8,Jahongir Ortiqhojaev,69°16′E41°18′N,2571668.0
+110,Vietnam,Hanoi,3358.6,Null,105°51′15″E21°01′42″N,8053663.0
+111,Yemen,Sana'a,126.0,Null,44°12′23″E15°20′54″N,2545000.0
+112,Abkhazia,Sukhumi,27.0,Beslan Eshba,41°00′55″E43°00′12″N,65439.0
+113,Republic of Artsakh,Stepanakert,29.12,David Sargsyan,46°45′7″E39°48′55″N,75000.0
+114,Northern Cyprus,North Nicosia,92.8,Mehmet Harmancı ,33°21′48″E35°10′37″N,61378.0
+115,South Ossetia,Tskhinvali,7.4,Null,43°58′12″E42°13′30″N,32180.0
+116,Taiwan,Taipei,271.8,Ko Wen-je ,121°31′E25°04′N,2646204.0
+117,Akrotiri and Dhekelia,Episkopi Cantonment,,Null,,
+118,Ashmore and Cartier Islands,Unspecified,,Null,,
+119,Christmas Island,Flying Fish Cove,,Null,,
+120,Cocos (Keeling) Islands,West Island,,Null,96°49′42″E12°11′13″S,
+121,Hong Kong,Unspecified,,Null,,
+122,Macau,Unspecified,,Null,,
+123,Albania,Tirana,1110.03,Erion Veliaj,19°49′04″E41°19′44″N,557422.0
+124,Andorra,Andorra la Vella,12.0,Null,01°30′E42°30′N,22256.0
+125,Austria,Vienna,414.78,Michael Ludwig ,16°22′E48°12′N,
+126,Belarus,Minsk,409.5,Null,27°34′E53°54′N,2009786.0
+127,Belgium,Brussels,162.4,Null,4°21′E50°51′N,1208542.0
+128,Bosnia and Herzegovina,Sarajevo,141.5,Benjamina Karić,18°25′E43°52′N,275524.0
+129,Bulgaria,Sofia,492.0,Yordanka Fandakova ,23°20′E42°42′N,1242568.0
+130,Croatia,Zagreb,641.0,Tomislav Tomašević ,15°59′E45°49′N,790017.0
+131,Czech Republic,Prague,496.0,Zdeněk Hřib ,14°25′E50°5′N,1335084.0
+132,Denmark,Copenhagen,179.8,Null,12°34′06″E55°40′34″N,799033.0
+133,Estonia,Tallinn,159.2,Mihhail Kõlvart,24°44′43″E59°26′14″N,437619.0
+134,Finland,Helsinki,715.48,Juhana Vartiainen ,24°56′15″E60°10′15″N,656250.0
+135,France,Paris,2853.5,Anne Hidalgo ,2°21′08″E48°51′24″N,21000.0
+136,Germany,Berlin,891.7,Michael Müller ,13°24′18″E52°31′12″N,3664088.0
+137,Greece,Athens,38.964,Kostas Bakoyannis ,23°43′41″E37°59′03″N,664046.0
+138,Hungary,Budapest,525.2,Gergely Karácsony ,19°03′05″E47°29′33″N,1752286.0
+139,Iceland,Reykjavík,273.0,Null,21°56′24″W64°08′48″N,131136.0
+140,Republic of Ireland,Dublin,117.8,Alison Gilliland ,06°15′37″W53°20′59″N,554554.0
+141,Italy,Rome,1285.0,Roberto Gualtieri ,12°30′E41°53′N,
+142,Latvia,Riga,304.03,Mārtiņš Staķis,24°6′23″E56°56′56″N,614618.0
+143,Liechtenstein,Vaduz,17.3,Manfred Bischof ,9°31′16″E47°08′28″N,5696.0
+144,Lithuania,Vilnius,401.0,Remigijus Šimašius,25°17′E54°41′N,588412.0
+145,Luxembourg,Luxembourg City,51.46,Lydie Polfer ,6°7′55″E49°36′42″N,124528.0
+146,Malta,Valletta,0.61,Alfred Zammit ,14°30′45″E35°53′54″N,5827.0
+147,Moldova,Chișinău,123.0,Ion Ceban,28°50′07″E47°01′22″N,532513.0
+148,Monaco,city-state,,Null,,
+149,Montenegro,Podgorica,108.0,Ivan Vuković ,19°15′46.41″E42°26′28.63″N,150977.0
+150,Kingdom of the Netherlands,Amsterdam,219.32,Femke Halsema ,4°54′E52°22′N,872680.0
+151,North Macedonia,Skopje,571.46,Danela Arsovska ,21°26′E42°0′N,506926.0
+152,Norway,Oslo,480.0,Marianne Borgen ,10°45′8″E59°54′50″N,697010.0
+153,Poland,Warsaw,517.24,Rafał Trzaskowski ,21°1′E52°14′N,1794166.0
+154,Portugal,Lisbon,100.05,Carlos Moedas,9°09′00″W38°43′31″N,544851.0
+155,Romania,Bucharest,228.0,Nicușor Dan ,26°6′14″E44°25′57″N,1883425.0
+156,San Marino,San Marino,7.09,Null,12°26′50.28″E43°56′4.56″N,4071.0
+157,Serbia,Belgrade,359.9,Zoran Radojičić ,20°28′E44°49′N,1166763.0
+158,Slovakia,Bratislava,367.584,Matúš Vallo,17°06′35″E48°08′38″N,440948.0
+159,Slovenia,Ljubljana,163.8,Zoran Janković ,14°30′30″E46°03′20″N,295504.0
+160,Spain,Madrid,604.31,José Luis Martínez-Almeida ,3°43′W40°25′N,3223334.0
+161,Sweden,Stockholm,188.0,Anna König Jerlmyr ,18°4′7″E59°19′46″N,975819.0
+162,Switzerland,de jure,,Null,,
+163,Ukraine,Kyiv,839.0,Vitali Klitschko,30°31′24″E50°27′00″N,2962180.0
+164,United Kingdom,London,1572.0,Null,0°7′39″W51°30′26″N,8961989.0
+165,Vatican City,Unspecified,,Null,,
+166,Kosovo,Pristina,523.13,Shpend Ahmeti ,21°9′44″E42°39′48″N,161751.0
+167,Transnistria,Tiraspol,55.56,Null,29°38′36″E46°50′25″N,133807.0
+168,Faroe Islands,Tórshavn,172.9,Heðin Mortensen ,6°46′3″W62°0′42″N,19165.0
+169,Gibraltar,Unspecified,,Null,,
+170,Greenland,Nuuk,690.0,Null,51°41′39″W64°10′53″N,18800.0
+171,Bailiwick of Guernsey,Unspecified,,Null,,
+172,Isle of Man,Douglas,,Null,,
+173,Jan Mayen,Unspecified,,Null,,
+174,Jersey,Saint Helier,10.6,Null,02°06′36″W49°11′09″N,37540.0
+175,Svalbard,Unspecified,,Null,,
+176,Åland Islands,Mariehamn,20.75,Barbara Heinonen,019°56′E60°06′N,11718.0
+177,Antigua and Barbuda,St. John's,10.0,Null,61°51′W17°07′N,22219.0
+178,The Bahamas,Nassau,207.0,Null,77°20′W25°4′N,274400.0
+179,Barbados,Bridgetown,15.0,Null,59°37′00″W13°05′51″N,110000.0
+180,Belize,Belmopan,32.78,Khalid Belisle ,88°46′1″W17°15′5″N,16451.0
+181,Canada,Ottawa,2790.3,Jim Watson,75°41′42″W45°25′29″N,934243.0
+182,Costa Rica,San José,44.62,Johnny Araya Monge ,84°5′W9°56′N,342188.0
+183,Cuba,Havana,728.26,Reinaldo García Zapata ,82°21′32″W23°08′12″N,2130517.0
+184,Dominica,Roseau,,Cecil Joseph,61°23′18″W15°18′05″N,14725.0
+185,Dominican Republic,Santo Domingo,104.44,Carolina Mejía,69°57′W18°28′N,965040.0
+186,El Salvador,San Salvador,72.25,Mario Durán,89°11′29″W13°41′56″N,2406709.0
+187,Grenada,St. George's,,Null,61°45′W12°3′N,33734.0
+188,Guatemala,Guatemala City,220.0,Ricardo Quiñónez Lemus ,90°32′7″W14°36′48″N,2934841.0
+189,Haiti,Port-au-Prince,36.04,Ralph Youri Chevry,72°20′W18°32′N,987310.0
+190,Honduras,Tegucigalpa,1502.0,Nasry Asfura ,87°13′W14°6′N,1276738.0
+191,Jamaica,Kingston,480.0,Delroy Williams,76°47′35″W17°58′17″N,662435.0
+192,Mexico,Mexico City,1485.0, Claudia Sheinbaum,99°8′W19°26′N,9209944.0
+193,Nicaragua,Managua,267.0,Reyna Rueda,86°15′5″W12°8′11″N,1055247.0
+194,Panama,Panama City,275.0,José Luis Fábrega ,79°31′W8°59′N,880691.0
+195,Saint Kitts and Nevis,Basseterre,6.1,Null,62°44′W17°18′N,14000.0
+196,Saint Lucia,Castries,79.0,Geraldine Lendor-Gabriel,60°59′W14°01′N,20000.0
+197,Saint Vincent and the Grenadines,Kingstown,,Null,061°13′30″W13°09′28″N,12909.0
+198,Trinidad and Tobago,Port of Spain,12.0,"Joel Martinez, PNM",61°31′W10°40′N,37074.0
+199,United States,"Washington, D.C.",68.34,Muriel Bowser ,77°00′53″W38°54′36″N,689545.0
+200,Anguilla,The Valley,2.72,Null,63°03′06″W18°13′15″N,1067.0
+201,Aruba,Oranjestad,,Null,70°02′09″W12°31′07″N,28294.0
+202,Bermuda,Hamilton,0.28,Charles R. Gosling,64°46′55″W32°17′35″N,854.0
+203,Bonaire,Kralendijk,,Null,68°15′56″W12°8′40″N,10620.0
+204,British Virgin Islands,Road Town,,Null,64°37′23″W18°25′53″N,12603.0
+205,Cayman Islands,George Town,29.0,Null,81°23′11″W19°18′12″N,40200.0
+206,Clipperton Island,Unspecified,,Null,,
+207,Curaçao,Willemstad,,Null,68°56′W12°7′N,136660.0
+208,Guadeloupe,Unspecified,,Null,,
+209,Martinique,Unspecified,,Null,,
+210,Montserrat,Plymouth,,Null,62°12′57″W16°42′23″N,0.0
+211,Navassa Island,Unspecified,,Null,,
+212,Puerto Rico,San Juan,77.0,Miguel Romero Lugo ,66°3′50″W18°24′23″N,342259.0
+213,Saba,The Bottom,,Null,63°14′57″W17°37′34″N,462.0
+214,Saint Barthélemy,Gustavia,3.4,Null,62°51′05.0″W17°54′03.8″N,2300.0
+215,Collectivity of Saint Martin,Marigot,,Null,63°04′56″W18°04′23″N,5700.0
+216,Saint Pierre and Miquelon,Saint-Pierre,,Nick Mullen,56°10′40″W46°46′40″N,220.0
+217,Sint Eustatius,Oranjestad,,Null,62°59′W17°29′N,1038.0
+218,Sint Maarten,Philipsburg,,Null,63°02′45″W18°01′25″N,1894.0
+219,Turks and Caicos Islands,Cockburn Town,6.71,Null,71°08′20″W21°27′32″N,3700.0
+220,United States Virgin Islands,Charlotte Amalie,3.14,Null,64°57′W18°21′N,14477.0
+221,Australia,Canberra,,Null,,
+222,Fiji,Suva,26.24,Null,,93970.0
+223,Kiribati,South Tarawa,,Null,173°00′E1°26′N,3578.0
+224,Marshall Islands,Majuro,,Ladie Jack,171°23′E7°05′N,27797.0
+225,Federated States of Micronesia,Palikir,,Null,158°9′32″E6°55′2″N,6647.0
+226,Nauru,Yaren,1.5,Null,166°55′15.12″E0°32′51.72″S,747.0
+227,New Zealand,Wellington,303.67,Andy Foster,174°46′38″E41°17′20″S,215900.0
+228,Palau,Ngerulmud,,Null,134°37′27″E7°30′2″N,271.0
+229,Papua New Guinea,Port Moresby,240.0,Powes Parkop ,147°08′58″E9°28′44″S,364145.0
+230,Samoa,Apia,47.8,Null,171°45′W13°50′S,
+231,Solomon Islands,Honiara,22.0,Wilson Mamae,159°57′20″E9°25′55″S,84520.0
+232,Tonga,Nukuʻalofa,,Null,175°12′0″W21°8′0″S,23221.0
+233,Tuvalu,Funafuti,2.4,Null,179°12′E08°31′S,6320.0
+234,Vanuatu,Port Vila,23.6,Erick Puyo Festa,168°19′E17°44′S,51437.0
+235,Cook Islands,Avarua,,Null,159°46′15″W21°12′25″S,4906.0
+236,Niue,Alofi,46.48,Null,169°55′12″W19°03′14″S,597.0
+237,American Samoa,Pago Pago,,Null,170°42′02″W14°16′46″S,3656.0
+238,Baker Island,Unspecified,,Null,,
+239,Coral Sea Islands,Unspecified,,Null,,
+240,French Polynesia,Papeete,299.5,Michel Buillard,149°34′11″W17°32′06″S,1500.0
+241,Guam,Hagåtña,1.0,John A. Cruz ,144°45′00″E13°28′45″N,1051.0
+242,Howland Island,Unspecified,,Null,,
+243,Jarvis Island,Unspecified,,Null,,
+244,Johnston Atoll,Unspecified,,Null,,
+245,Kingman Reef,Unspecified,,Null,,
+246,Midway Atoll,Unspecified,,Null,,
+247,New Caledonia,Nouméa,1643.0,Sonia Lagarde,166°27′29″E22°16′33″S,2100.0
+248,Norfolk Island,Kingston,,Null,,
+249,Northern Mariana Islands,Saipan,12.0,Null,145°45′E15°11′N,
+250,Palmyra Atoll,Unspecified,,Null,,
+251,Pitcairn Islands,Adamstown,4.6,Charlene Warren-Peu,130°6′W25°4′S,40.0
+252,Tokelau,Unspecified,,Null,,
+253,Wake Island,Unspecified,,Null,,
+254,Wallis and Futuna,Matā'Utu,,Null,176°11′W13°17′S,1029.0
+255,Argentina,Buenos Aires,203.0,Horacio Rodríguez Larreta ,58°22′54″W34°36′12″S,
+256,Bolivia,Sucre,1768.0,Rosario López Rojo de Aparicio,65°15′0″W19°3′0″S,360544.0
+257,Brazil,Brasília,5802.0,Null,47°52′58″W15°47′38″S,
+258,Chile,Santiago,641.0,Claudio Orrego Larraín,70°40′W33°27′S,6269384.0
+259,Colombia,Bogotá,1587.0,Claudia López Hernández,74°4′20″W4°42′40″N,7412566.0
+260,Ecuador,Quito,372.39,Santiago Guarderas,78°30′45″W00°13′12″S,2011388.0
+261,Guyana,Georgetown,70.0,Ubraj Narine,58°9′19″W6°48′4″N,118363.0
+262,Paraguay,Asunción,117.0,Null,57°38′W25°18′S,525252.0
+263,Peru,Lima,2672.3,Jorge Muñoz,77°02′W12°03′S,9751717.0
+264,Suriname,Paramaribo,182.0,Null,55°12′14″W5°51′8″N,240924.0
+265,Uruguay,Montevideo,201.0,Null,56°10′55″W34°53′1″S,6726.0
+266,Venezuela,Caracas,433.0,Null,66°54′13″W10°28′50″N,2245744.0
+267,Falkland Islands,Stanley,2.5,Null,57°51′10″W51°41′40″S,2460.0
+268,French Guiana,Unspecified,,Null,,
+269,South Georgia and the South Sandwich Islands,King Edward Point,,Null,36°30′00″W54°17′00″S,22.0

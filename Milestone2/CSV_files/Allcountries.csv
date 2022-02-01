@@ -1,0 +1,271 @@
+,CountryName,Continent,Population,Official Language,Driving side,Call code,Time zone,Area,Water Percentage,Legislature,HDI,Currency,GDP PP,GDP Nominal,GINI
+0,Algeria,Africa,44700000.0,Arabic,right,213,UTC+1 (CET),2381741.0,1.1,Parliament,0.748,Algerian dinar ,532565000000.00006,163512000000.0,27.6
+1,Angola,Africa,31127674.0,Portuguese,right,244,UTC+1 (WAT),1246700.0,0.0,National Assembly,0.581,Kwanza ,213034000000.0,64480000000.00001,51.3
+2,Benin,Africa,11733059.0,French,right,229,UTC+1 (WAT),114763.0,0.4,National Assembly,0.545,West African CFA franc ,29918000000.0,11386000000.0,47.8
+3,Botswana,Africa,2254068.0,Setswana,left,267,Central Africa Time (GMT+2),581730.0,2.7,National Assembly,0.735,Pula ,43389000000.0,18726000000.0,53.3
+4,Burkina Faso,Africa,21510181.0,French,right,226,UTC (GMT),274200.0,0.146,National Assembly,0.452,West African CFA franc[8] ,45339000000.0,16226000000.0,38.9
+5,Burundi,Africa,11865821.0,Kirundi,right,257,UTC+2 (CAT),27834.0,,Parliament,0.433,Burundian franc ,8380000000.000001,3573000000.0,39.2
+6,Cameroon,Africa,26545864.0,French,right,237,UTC+1 (WAT),475442.0,0.57,Parliament,0.563,Central African CFA franc ,101950000000.0,44893000000.0,46.6
+7,Cape Verde,Africa,483628.0,Portuguese,right,238,UTC–1 (CVT),4033.0,0.0,National Assembly,0.665,Cape Verdean escudo ,4323000000.0,2041999999.9999998,42.4
+8,Central African Republic,Africa,4666368.0,French,right,236,UTC+1 (WAT),622984.0,0.0,National Assembly,0.397,Central African CFA franc ,4261999999.9999995,2321000000.0,56.3
+9,Chad,Africa,16244513.0,Arabic,right,235,UTC+1 (WAT),1284000.0,1.9,Transitional Military Council,0.398,Central African CFA franc ,30000000000.0,11000000000.0,43.3
+10,Comoros,Africa,850886.0,Comorian,right,269,UTC+3 (EAT),1861.0,0.0,Assembly of the Union,0.554,Comorian franc ,2446000000.0,1179000000.0,45.0
+11,Democratic Republic of the Congo,Africa,92377393.0,French,right,243,UTC+1 to +2 (WAT and CAT),2345409.0,3.32,Parliament,0.48,Congolese franc ,77486000000.0,46117000000.0,42.1
+12,Republic of the Congo,Africa,5244359.0,French,right,242,UTC+1 (WAT),342000.0,3.3,Parliament,0.574,Central African CFA franc ,32516000000.0,11162000000.0,40.2
+13,Djibouti,Africa,921804.0,French,right,253,UTC+3 (EAT),23200.0,0.09,National Assembly,0.524,Djiboutian franc ,3974000000.0,2187000000.0,41.6
+14,Egypt,Africa,101478581.0,Arabic,right,20,UTC+2 (EGY),1010408.0,0.632,Parliament,0.707,Egyptian pound ,1391000000000.0,362000000000.0,31.5
+15,Equatorial Guinea,Africa,1454789.0,Spanish,right,240,UTC+1 (WAT),28050.0,0.0,Parliament,0.592,Central African CFA franc ,29162000000.0,12432000000.0,
+16,Eritrea,Africa,5150000.0,,right,291,UTC+3 (EAT),117600.0,0.14,National Assembly,0.459,Nakfa ,11010000000.0,8090000000.0,
+17,Eswatini,Africa,1160164.0,Swazi,left,268,UTC+2 (SAST),17364.0,0.9,Parliament,0.611,Lilangeni ,10463000000.0,4211000000.0000005,54.6
+18,Ethiopia,Africa,117876227.0,Afar,right,251,UTC+3 (EAT),1104300.0,0.7,Federal Parliamentary Assembly,0.485,Birr ,278000000000.0,91514000000.0,35.0
+19,Gabon,Africa,2119275.0,French,right,241,UTC+1 (WAT),267667.0,3.76,Parliament,0.703,Central African CFA franc ,38280000000.0,17212000000.0,38.0
+20,The Gambia,Africa,2173999.0,,right,220,UTC (GMT),10689.0,11.5,National Assembly,0.496,Dalasi ,5420000000.0,1810000000.0,35.9
+21,Ghana,Africa,31072940.0,,right,233,UTC (GMT),239567.0,4.61,Parliament,0.611,Cedi ,226000000000.0,73594000000.0,43.5
+22,Guinea,Africa,12414293.0,French,right,224,UTC (GMT),245857.0,0.0,National Assembly,0.477,Guinean franc ,26451000000.0,9183000000.0,33.7
+23,Guinea-Bissau,Africa,1726000.0,Portuguese,right,245,UTC (GMT),36125.0,22.4,National People's Assembly,0.48,West African CFA franc ,3391000000.0,1480000000.0,50.7
+24,Ivory Coast,Africa,26378274.0,French,right,225,UTC (GMT),322463.0,,Parliament of Ivory Coast,0.538,West African CFA franc ,144497000000.0,61502000000.0,41.5
+25,Kenya,Africa,54985698.0,English,left,254,UTC+3 (EAT),580367.0,2.3,Parliament,0.601,Kenyan shilling ,250854000000.0,109116000000.0,40.8
+26,Lesotho,Africa,2108328.0,Sesotho,left,266,UTC+2 (South African Standard Time),30355.0,0.0032,Parliament,0.527,Loti ,7448000000.0,2721000000.0,44.9
+27,Liberia,Africa,5214030.0,English,right,231,UTC (GMT),111369.0,13.514,Legislature of Liberia,0.48,Liberian dollar ,6468000000.0,3221000000.0,35.3
+28,Libya,Africa,6992701.0,Arabic,right,218,UTC+2 (EET),1759541.0,,House of Representatives,0.724,Libyan dinar ,31531000000.0,21805000000.0,
+29,Madagascar,Africa,28427328.0,Malagasy,right,261,UTC+3 (EAT),587041.0,,Parliament,0.528,Ariary ,45948000000.0,12734000000.0,42.6
+30,Malawi,Africa,19129952.0,English,left,265,UTC+2 (CAT),118484.0,20.6,National Assembly,0.483,Malawian kwacha ,25037000000.0,7436000000.0,44.7
+31,Mali,Africa,20250833.0,French,right,223,UTC (GMT),1240192.0,1.6,National Assembly,0.434,West African CFA franc ,44329000000.0,17407000000.0,33.0
+32,Mauritania,Africa,4403313.0,Arabic,right,222,UTC (GMT),1030000.0,0.03,National Assembly,0.546,Ouguiya ,18117000000.0,5200000000.0,32.6
+33,Mauritius,Africa,1265475.0,de jure,left,230,UTC+4 (MUT),2040.0,0.07,National Assembly,0.804,Mauritian rupee ,31705000000.0,14812000000.0,36.8
+34,Morocco,Africa,37112080.0,Arabic,right,212,UTC+1[12],710850.0,0.056,Parliament,0.686,Moroccan dirham ,332358000000.0,122458000000.0,40.3
+35,Mozambique,Africa,30066648.0,Portuguese,left,258,UTC+2 (CAT),801590.0,2.2,Assembly of the Republic,0.456,Metical ,41473000000.0,15372000000.0,45.7
+36,Namibia,Africa,2550226.0,English,left,264,UTC+2 (CAST),825615.0,0.0,Parliament,0.646,Namibian dollar ,23855000000.0,10927000000.0,59.1
+37,Niger,Africa,24112753.0,French,right,227,UTC+1 (WAT),1267000.0,0.02,National Assembly,0.394,West African CFA franc ,23475000000.0,9869000000.0,34.0
+38,Nigeria,Africa,211400708.0,English,right,234,UTC+01:00 (WAT),923769.0,1.4,National Assembly,0.539,Naira ,1116000000000.0,514049000000.0,35.1
+39,Rwanda,Africa,12374397.0,Kinyarwanda,right,250,UTC+2 (CAT),26338.0,5.3,Parliament,0.543,Rwandan franc ,33455000000.0,11061000000.0,43.7
+40,São Tomé and Príncipe,Africa,211028.0,Portuguese,right,239,UTC (GMT),1001.0,,National Assembly,0.625,Dobra ,685000000.0,355000000.0,56.3
+41,Senegal,Africa,15854323.0,French,right,221,UTC (GMT),196712.0,2.1,National Assembly,0.512,West African CFA franc ,66438000000.0,28020000000.0,40.3
+42,Seychelles,Africa,98462.0,English,left,248,UTC+4 (SCT),459.0,0.0,National Assembly,0.796,Seychellois rupee ,2919000000.0,1564000000.0,46.8
+43,Sierra Leone,Africa,8059155.0,English,right,232,UTC (GMT),71740.0,1.1,Parliament ,0.452,Leone ,12177000000.0,3824000000.0,35.7
+44,Somalia,Africa,15893219.0,Somali,right,252,UTC+3 (EAT),637657.0,,Federal Parliament,,Somali shilling ,,,
+45,South Africa,Africa,60142978.0,English,left,27,UTC+2 (SAST),1221037.0,0.38,Parliament,0.709,South African rand ,862000000000.0,415000000000.0,63.0
+46,South Sudan,Africa,12778250.0,,right,211,UTC+2 (Central Africa Time),644329.0,,Transitional National Legislature,0.433,South Sudanese pound ,18435000000.0,3194000000.0,44.1
+47,Sudan,Africa,44909353.0,Arabic,right,249,UTC+2 (CAT),1886068.0,,Transitional Legislative Council,0.51,Sudanese pound ,177678000000.0,33903000000.0,34.2
+48,Tanzania,Africa,61193226.0,Swahili,left,255,UTC+3 (EAT),947303.0,,National Assembly,0.529,Tanzanian shilling ,200144000000.0,65632000000.00001,40.5
+49,Togo,Africa,8608444.0,French,right,228,UTC (GMT),56785.0,4.2,National Assembly,0.515,West African CFA franc ,14919000000.0,5592000000.0,43.1
+50,Tunisia,Africa,11708370.0,Arabic,right,216,UTC+1 (CET),163610.0,5.04,Assembly of the Representatives of the People,0.74,Tunisian dinar ,159707000000.0,44192000000.0,35.8
+51,Uganda,Africa,42729036.0,English,left,256,UTC+3 (EAT),241038.0,15.39,Parliament,0.544,Ugandan shilling ,102659000000.0,30765000000.0,42.0
+52,Zambia,Africa,17351708.0,,left,260,UTC+2 (CAT),752617.0,1.0,National Assembly,0.584,Zambian kwacha ,75857000000.0,23946000000.0,57.1
+53,Zimbabwe,Africa,15092171.0,Chewa,left,263,UTC+2 (CAT[12]),390757.0,1.0,Parliament,0.571,Zimbabwean dollar,41031000000.0,22290000000.0,50.3
+54,Sahrawi Arab Democratic Republic,Africa,612000.0,Arabic,,,UTC,266000.0,,Sahrawi National Council,,de facto - Moroccan dirham ,,,
+55,Somaliland,Africa,5700000.0,Somali,right,252,UTC+3 (EAT),177000.0,,Parliament,,Somaliland shilling,2500000000.0,,
+56,Bouvet Island,Africa,0.0,,,,,49.0,,,,,,,
+57,British Indian Ocean Territory,Africa,0.0,English,right,246,UTC+06,54000.0,99.89,,,United States Dollar ,,,
+58,French Southern and Antarctic Lands,Africa,0.0,French,right,,UTC+04:00UTC+05:00UTC+10:00,439666.4,,Advisory Council of the TAAF,,Euro ,,,
+59,Heard Island and McDonald Islands,Africa,,,,,,2745.0,,,,,,,
+60,Mayotte,Africa,288926.0,,,,UTC+03:00 (EAT),374.0,,,,,,,
+61,Réunion,Africa,858450.0,,,,UTC+04:00 (RET),2511.0,,,,,,,
+62,"Saint Helena, Ascension and Tristan da Cunha",Africa,5633.0,English,left,290,UTC±00:00 (GMT),394.0,,,,Saint Helena pound ,,,
+63,Afghanistan,Asia,32890171.0,,right,93,UTC+4,652864.0,0.0,,0.511,Afghani ,72911000000.0,21657000000.0,
+64,Armenia,Asia,2963900.0,Armenian,right,374,UTC+4 (AMT),29743.0,,National Assembly,0.776,Dram ,32893000000.0,13444000000.0,29.9
+65,Azerbaijan,Asia,10130100.0,Azerbaijani,right,994,UTC+4 (AZT),86600.0,1.6,National Assembly,0.756,Manat ,189050000000.0,45284000000.0,33.7
+66,Bahrain,Asia,1569446.0,Arabic,right,973,UTC+3 (AST),785.08,0.0,National Assembly,0.852,Bahraini dinar ,78760000000.0,41607000000.0,
+67,Bangladesh,Asia,161376708.0,Bengali,left,880,UTC+6 (BST),148460.0,6.4,Jatiya Sangsad,0.632,Taka ,966485000000.0,409000000000.0,39.5
+68,Bhutan,Asia,754388.0,Dzongkha,left,975,UTC+06 (BTT),38394.0,1.1,Parliament,0.654,Ngultrum ,7701000000.0,2547000000.0,37.4
+69,Brunei,Asia,460345.0,Malay,left,673,UTC+8 (Brunei Darussalam Time),5765.0,8.6,Legislative Council,0.838,Brunei dollar ,36854000000.0,13325000000.0,
+70,Cambodia,Asia,15552211.0,Khmer,right,855,UTC+7 (ICT),181035.0,2.5,Parliament,0.594,Riel ,76635000000.0,26628000000.0,36.0
+71,China,Asia,1411778724.0,Standard Chinese,right (Mainland);left (Hong Kong and Macau),86,UTC+8 (China Standard Time),9596961.0,,National People's Congress,0.761,Renminbi ,26660000000000.0,16640000000000.0,46.7
+72,Cyprus,Asia,1189265.0,Greek,left,357,UTC+2 (EET),9251.0,9.0,House of Representatives,0.887,Euro ,38561000000.0,26546000000.0,29.3
+73,East Timor,Asia,1340513.0,Portuguese,left,670,UTC+9 (TLT),15007.0,0.0,National Parliament,0.606,United States dollarb ,5315000000.0,1920000000.0,28.7
+74,Georgia (country),Asia,3728573.0,Georgian,right,995,UTC+4 (Georgia Time GET),69700.0,,Parliament,0.812,Georgian lari ,46050000000.0,17830000000.0,35.9
+75,India,Asia,1352642280.0,Hindi,left,91,UTC+05:30 (IST),3287263.0,9.6,Parliament,0.645,Indian rupee ,10207000000000.0,3050000000000.0,35.7
+76,Indonesia,Asia,270203917.0,Indonesian,left,62,UTC+7 to +9 (various),1904569.0,4.85,People's Consultative Assembly ,0.718,Indonesian rupiah ,3507000000000.0,1159000000000.0,38.2
+77,Iran,Asia,83183741.0,Persian,right,98,UTC+3:30 (IRST),1648195.0,1.63,Islamic Consultative Assembly,0.783,Iranian rial ,1006999999999.9999,611000000000.0,42.0
+78,Iraq,Asia,40222503.0,Arabic,right,964,UTC+3 (AST),438317.0,4.62,Council of Representatives,0.674,Iraqi dinar ,413316000000.0,250070000000.0,29.5
+79,Israel,Asia,9433340.0,Hebrew,right,972,UTC+2 (IST),,2.71,Knesset,0.919,New shekel ,372314000000.0,410501000000.0,34.8
+80,Japan,Asia,125360000.0,,left,81,UTC+09:00 (JST),377975.0,1.4,National Diet,0.919,Japanese yen ,5586000000000.0,5378000000000.0,33.4
+81,Jordan,Asia,10658123.0,Arabic,right,962,UTC+2 (EET),89342.0,0.6,Parliament,0.729,Jordanian dinar ,102158000000.0,42609000000.0,35.4
+82,Kazakhstan,Asia,18711560.0,Kazakh,right,76,UTC+5 / +6 (West / East),2724900.0,1.7,Parliament,0.825,Tenge ,569813000000.0,179332000000.0,27.5
+83,North Korea,Asia,25549604.0,Korean,right,850,UTC+9 (Pyongyang Time[11]),120540.0,0.11,Supreme People's Assembly,,Korean People's won ,40000000000.0,30000000000.0,
+84,South Korea,Asia,51709098.0,Korean,right,82,UTC+9 (Korea Standard Time),100363.0,0.3,National Assembly,0.916,Korean Republic won ,2436000000000.0,1806000000000.0,34.5
+85,Kuwait,Asia,4420110.0,Arabic,right,965,UTC+3 (AST),17818.0,0.0,National Assembly,0.806,Kuwaiti dinar ,303000000000.0,118271000000.0,
+86,Kyrgyzstan,Asia,6586600.0,Kyrgyz,right,996,UTC+6 (KGT),199951.0,3.6,Supreme Council,0.697,Kyrgyzstani som ,35324000000.0,8455000000.0,27.7
+87,Laos,Asia,7123205.0,Lao,right,856,UTC+7 (ICT),237955.0,2.0,National Assembly,0.613,Kip ,,,36.4
+88,Lebanon,Asia,6859408.0,Arabic,right,961,UTC+2 (EET),10452.0,1.8,Parliament,0.744,Lebanese pound ,91000000000.0,18000000000.0,31.8
+89,Malaysia,Asia,32730000.0,Malaysian,left,60,UTC+8 (MST),330803.0,0.3,Parliament,0.81,Ringgit ,900426000000.0,336330000000.0,41.0
+90,Maldives,Asia,557426.0,Dhivehi,left,960,UTC+5 (Maldives Time),300.0,,People's Majlis,0.74,Maldivian rufiyaa ,8972000000.0,4536000000.0,31.3
+91,Mongolia,Asia,3353470.0,Mongolian,right,976,UTC+7/+8[12],1564116.0,,State Great Khural,0.737,Tögrög ,47000000000.0,13700000000.0,32.7
+92,Myanmar,Asia,53582855.0,Burmese,right,95,UTC+06:30 (MMT),676578.0,3.06,Assembly of the Union,0.583,Kyat ,258000000000.0,78000000000.0,30.7
+93,Nepal,Asia,28095714.0,Nepali,left,977,UTC+05:45 (Nepal Standard Time),147516.0,2.8,Federal Parliament,0.602,Nepalese rupee ,122620000000.0,36084000000.0,32.8
+94,Oman,Asia,4829473.0,Arabic,right,968,UTC+4 (GST),309500.0,0.0,Council of Oman,0.813,Omani rial ,203959000000.0,62305000000.0,30.75
+95,Pakistan,Asia,225199937.0,Urdu,left,92,UTC+05:00 (PKT),881913.0,2.86,Parliament,0.557,Pakistani rupee ,1110000000000.0,296000000000.0,31.6
+96,State of Palestine,Asia,5159076.0,Arabic,right,970,UTC+2 (Palestine Standard Time),6020.0,,National Council,0.708,Egyptian pound ,26479000000.0,14616000000.0,33.7
+97,Philippines,Asia,109035343.0,Filipino,right,63,UTC+08:00 (PST),300000.0,,Congress,0.718,Philippine peso ,1000000000000.0,402638000000.0,42.3
+98,Qatar,Asia,2795484.0,Arabic,right,974,UTC+3 (AST),11581.0,0.8,Consultative Assembly,0.848,Qatari riyal ,357338000000.0,183807000000.0,41.1
+99,Russia,Asia,146171015.0,Russian,right,7,UTC+2 to +12,17098246.0,,Federal Assembly,0.824,Russian ruble ,4328000000000.0005,1710000000000.0,37.5
+100,Saudi Arabia,Asia,34218169.0,Arabic,right,966,UTC+3 (AST),2149690.0,0.7,none,0.854,Saudi Riyal ,1924000000000.0,779289000000.0,45.9
+101,Singapore,Asia,5453600.0,English,left,65,UTC+8 (Singapore Standard Time),728.6,,Parliament,0.938,Singapore dollar ,600063000000.0,374394000000.0,45.9
+102,Sri Lanka,Asia,22156000.0,Sinhala,left,94,UTC+5:30 (SLST),65610.0,4.4,Parliament,0.782,Sri Lankan rupee ,306997000000.0,84532000000.0,39.8
+103,Syria,Asia,17500657.0,Arabic,right,963,UTC+2 (EET),185180.0,1.1,People's Council,0.567,Syrian pound ,50280000000.0,24600000000.0,55.8
+104,Tajikistan,Asia,9537645.0,Tajik,right,992,UTC+5 (TJT),143100.0,1.8,Supreme Assembly,0.668,Somoni ,30547000000.0,7350000000.0,34.0
+105,Thailand,Asia,69950850.0,Thai,left,66,UTC+7 (ICT),513120.0,0.4,National Assembly,0.777,Baht ,1340000000000.0,536841000000.0,34.9
+106,Turkey,Asia,83614362.0,Turkish,right,90,UTC+3 (TRT),783356.0,2.03,Grand National Assembly,0.82,Turkish lira ,2749000000000.0,794530000000.0,41.9
+107,Turkmenistan,Asia,6031187.0,Turkmen,right,993,UTC+05 (TMT),491210.0,4.9,National Council,0.715,Turkmenistan manat ,112659000000.0,42764000000.0,
+108,United Arab Emirates,Asia,9890400.0,Arabic,right,971,UTC+04:00 (United Arab Emirates Standard Time),83600.0,0.0,Federal National Council,0.89,UAE dirham ,,,32.5
+109,Uzbekistan,Asia,35011180.0,Uzbek,right,998,UTC+5 (UZT),448978.0,4.9,Oliy Majlis,0.72,Uzbek som ,275806000000.0,60490000000.0,36.7
+110,Vietnam,Asia,96208984.0,,right,84,UTC+07:00 (Vietnam Standard Time),331699.0,6.38,National Assembly,0.704,đồng ,1047318000000.0,340602000000.0,35.7
+111,Yemen,Asia,30491000.0,Arabic,right,967,UTC+3 (AST),555000.0,0.0,Parliament ,0.47,Yemeni rial ,73348000000.0,28524000000.0,36.7
+112,Abkhazia,Asia,245246.0,Abkhaz,right,7840940,UTC+3 (MSK),8665.0,,People's Assembly,,Abkhazian apsarRussian rublee ,,,
+113,Republic of Artsakh,Asia,120000.0,Armenian,right,37447,UTC+4 (AMT),,,National Assembly,,Artsakh dramArmenian dram ,713000000.0,,
+114,Northern Cyprus,Asia,326000.0,Turkish,left,90392,UTC+2 (EET),3355.0,2.7,Assembly of the Republic,,Turkish lira ,,4234000000.0,
+115,South Ossetia,Asia,53532.0,Ossetian,right,99534,UTC+03:00 (MSK),3900.0,0.0,Parliament,,Russian ruble ,,,
+116,Taiwan,Asia,23451837.0,Standard Chinese,right,886,UTC+8 (National Standard Time),36197.0,,Legislative Yuan,0.916,New Taiwan dollar ,1403000000000.0,759104000000.0,34.1
+117,Akrotiri and Dhekelia,Asia,18195.0,English,left,357,UTC+02:00 (EET),254.0,,,,Euro ,,,
+118,Ashmore and Cartier Islands,Asia,0.0,,,,,,,,,,,,
+119,Christmas Island,Asia,1843.0,,left,61891,UTC+07:00 (CXT),135.0,0.0,,,Australian dollar ,,,
+120,Cocos (Keeling) Islands,Asia,544.0,,,61891,UTC+06:30,14.0,0.0,,,Australian dollar ,,,
+121,Hong Kong,Asia,7500700.0,,left,852,UTC+08:00 (HKT),2754.97,59.7,Legislative Council,0.949,Hong Kong dollar ,472395000000.0,368633000000.0,53.9
+122,Macau,Asia,682800.0,Chinese,left,853,UTC+08:00 (Macau Standard Time),115.3,73.7,Legislative Assembly,0.922,Macanese Pataca ,40000000000.0,26000000000.0,35.0
+123,Albania,Europe,2845955.0,Albanian,right,355,UTC+1 (CET),28748.0,4.7,Kuvendi,0.795,Lek ,42594000000.0,16753000000.0,34.3
+124,Andorra,Europe,77543.0,Catalan,right,376,UTC+01 (CET),467.63,0.26,General Council,0.868,Euro ,,,27.21
+125,Austria,Europe,8935112.0,Austrian German,right,43,UTC+1 (CET),83879.0,0.84,Parliament,0.922,Euro ,461432000000.0,446315000000000.0,27.0
+126,Belarus,Europe,9349645.0,Belarusian,right,375,UTC+3 (MSK[9]),207595.0,1.4,National Assembly,0.823,Belarusian ruble ,185889000000.0,57708000000.0,25.3
+127,Belgium,Europe,11492641.0,Dutch,right,32,UTC+1 (CET),30689.0,0.71,Federal Parliament,0.919,Euro ,575808000000.0,503416000000.0,25.4
+128,Bosnia and Herzegovina,Europe,3824782.0,,right,387,UTC+01 (CET),51129.0,1.4,Parliamentary Assembly,0.78,Convertible mark ,51996000000.0,21953000000.0,32.7
+129,Bulgaria,Europe,6875040.0,Bulgarian,right,359,UTC+2 (EET),110993.6,,National Assembly,0.816,Lev ,174998000000.0,77782000000.0,40.0
+130,Croatia,Europe,3901165.0,Croatian,right,385,UTC+1 (CET),56594.0,1.09,Croatian Parliament,0.851,Kuna ,124000000000.0,63000000000.0,28.3
+131,Czech Republic,Europe,10701777.0,Czech,right,420,UTC+1 (CET),78871.0,2.12,Parliament,0.9,Czech koruna ,432346000000.0,261732000000.00003,24.0
+132,Denmark,Europe,5850189.0,Danish,right,45,UTC+1 (CET),42933.0,1.74,Folketing,0.94,Danish krone[N 9] ,299000000000.0,370000000000.0,27.3
+133,Estonia,Europe,1330068.0,Estonian,right,372,UTC+02:00 (EET),45339.0,5.16,Riigikogu,0.892,Euro ,49644000000.0,34970000000.0,30.5
+134,Finland,Europe,5536146.0,Finnish,right,358,UTC+2 (EET),338455.0,9.71,Parliament,0.938,Euro ,257000000000.0,277000000000.0,26.2
+135,France,Europe,67413000.0,French,right,33,UTC+1 (Central European Time),640679.0,0.86,Parliament,0.901,Euro ,3232000000000.0,2938000000000.0,29.2
+136,Germany,Europe,83190556.0,German,right,,UTC+1 (CET),357022.0,1.27,,0.947,Euro ,4743000000000.0,4319000000000.0,29.7
+137,Greece,Europe,10718565.0,Greek,right,30,UTC+02:00 (EET),131957.0,1.51,Hellenic Parliament,0.888,Euro ,339668000000.0,211645000000.0,31.4
+138,Hungary,Europe,9730000.0,Hungarian,right,36,UTC+1 (CET),93030.0,,National Assembly,0.854,Forint ,359901000000.0,180959000000.0,28.3
+139,Iceland,Europe,371580.0,Icelandic,right,354,UTC[c] (GMT/WET),102775.0,2.07,Althing,0.949,Icelandic króna ,19800000000.0,20800000000.0,23.2
+140,Republic of Ireland,Europe,5011500.0,Irish,left,353,UTC (GMT),70273.0,2.0,Oireachtas,0.955,Euro ,500000000000.0,477000000000.0,28.3
+141,Italy,Europe,60317116.0,Italian,right,39,UTC+1 (CET),301340.0,1.24,Parliament,0.892,Euro ,2610000000000.0,2105999999999.9998,32.8
+142,Latvia,Europe,1907675.0,Latvian,right,371,UTC+2 (EET),64589.0,2.09,Saeima,0.866,Euro ,63539000000.0,37720000000.0,35.2
+143,Liechtenstein,Europe,38896.0,German,right,423,UTC+01:00 (CET),160.0,,Landtag,0.919,Swiss franc ,5300000000.0,5155000000.0,
+144,Lithuania,Europe,2784279.0,Lithuanian,right,370,UTC+2 (EET),65300.0,1.98,Seimas,0.882,Euro ,107000000000.0,56000000000.0,35.4
+145,Luxembourg,Europe,633622.0,Luxembourgish,right,352,UTC+1 (CET),2586.4,0.23,Chamber of Deputies,0.916,Euro ,66848000000.0,69453000000.0,32.3
+146,Malta,Europe,514564.0,Maltese,left,356,UTC+1 (Central European Time),316.0,0.001,Parliament of Malta,0.895,Euro ,22802000000.0,15134000000.0,28.0
+147,Moldova,Europe,2597100.0,Romanian,right,373,UTC+2 (EET),33843.5,1.4,Parliament,0.75,Moldovan leu ,36886000000000.0,12396000000000.0,25.7
+148,Monaco,Europe,38300.0,French,right,377,UTC+1 (CET),2.02,0.0,National Council,,Euro ,7672000000.0,7185000000.0,
+149,Montenegro,Europe,621873.0,Montenegrin,right,382,UTC+1 (CET),13812.0,2.6,Skupština,0.829,Euro ,11994000000.0,4790000000.0,34.1
+150,Kingdom of the Netherlands,Europe,17737438.0,Dutch,right,31,UTC-4 (CET (UTC+1)AST),42531.0,18.96,,,4 currencies  Euro ,,,
+151,North Macedonia,Europe,1832696.0,Macedonian,right,389,UTC+1 (CET),25713.0,1.9,Assembly,0.774,Macedonian denar ,33822000000.000004,12383000000.0,30.7
+152,Norway,Europe,5402171.0,Norwegian,right,47,UTC+1 (CET),385207.0,5.32,,0.957,Norwegian krone ,350000000000.0,366000000000.0,25.4
+153,Poland,Europe,38268000.0,Polish,right,48,UTC+1 (CET),312696.0,1.48,Parliament,0.88,Złoty ,1412000000000.0,655000000000.0,28.5
+154,Portugal,Europe,10347892.0,Portuguese,right,351,UTC (WET) UTC−1 (Atlantic/Azores),92212.0,1.2,Assembly of the Republic,0.864,Euro ,376100000000.0,251700000000.0,31.9
+155,Romania,Europe,19186201.0,Romanian,right,40,UTC+2 (EET),238397.0,3.0,Parliament,0.828,Romanian leu ,653903000000.0,289130000000.0,33.8
+156,San Marino,Europe,33600.0,Italian,right,378,UTC+01 (CET),61.2,0.0,Grand and General Council,0.875,Euro ,2089999999.9999998,1550000000.0,
+157,Serbia,Europe,6871547.0,Serbian,right,381,UTC+1 (CET),88361.0,,National Assembly,0.806,Serbian dinar ,130600000000.0,52000000000.0,33.3
+158,Slovakia,Europe,5464060.0,Slovak,right,421,UTC+1 (CET),49035.0,0.72,National Council,0.86,Euro ,190277000000.0,117664000000.0,22.8
+159,Slovenia,Europe,2107126.0,Slovene,right,386,UTC+1 (CET),20271.0,,Parliament,0.917,Euro ,909000000000.0,609000000000.0,23.5
+160,Spain,Europe,47450795.0,Spanish,right,34,UTC⁠±0 to +1 (WET and CET),505990.0,0.89,Cortes Generales,0.904,Euro[f] ,1942000000000.0,1450000000000.0,33.0
+161,Sweden,Europe,10402070.0,Swedish,right,46,UTC+1 (CET),450295.0,8.37,Riksdag,0.945,Swedish krona ,563882000000.0,528929000000.0,26.9
+162,Switzerland,Europe,8570146.0,German,right,41,UTC+1 (CET),41285.0,4.34,Federal Assembly,0.955,Swiss franc ,584000000000.0,749000000000.0,29.7
+163,Ukraine,Europe,41319838.0,Ukrainian,right,380,UTC+2[10] (EET),603628.0,7.0,Verkhovna Rada,0.779,Hryvnia ,584000000000.0,184000000000.0,26.6
+164,United Kingdom,Europe,67081000.0,English,left,44,"UTC (Greenwich Mean Time, WET)",242495.0,1.51,Parliament,0.932,Pound sterling[f] ,3276000000000.0,3108000000000.0,36.6
+165,Vatican City,Europe,453.0,Italian,right,379,UTC+1 (CET),0.49,,Pontifical Commission,,Euro ,,,
+166,Kosovo,Europe,1935259.0,Albanian,right,383,UTC+1 (CET),10887.0,,Assembly,0.742,Euro ,23524000000.0,8401999999.999999,29.0
+167,Transnistria,Europe,469000.0,Russian,,373,UTC+2 (EET),4163.0,2.35,Supreme Council,,Transnistrian rubled ,,,
+168,Faroe Islands,Europe,53358.0,Faroese,right,298,UTC±00:00 (WET),1399.0,0.5,Løgting,0.95,Faroese króna ,,,23.3
+169,Gibraltar,Europe,34003.0,English,right,350,UTC+01:00 (CET),6.8,0.0,Parliament,0.961,Gibraltar pound ,,,
+170,Greenland,Europe,56081.0,Kalaallisut,right,299,UTC±00:00 to UTC-04:00,2166086.0,,Inatsisartut,0.786,Danish krone ,1800000000.0,,33.9
+171,Bailiwick of Guernsey,Europe,67334.0,English,left,44,UTC±00:00 (GMT),78.0,0.0,,0.975,Pound sterlingGuernsey pound ,2100000000.0,,
+172,Isle of Man,Europe,83314.0,English,left,44,UTC±00:00 (GMT),572.0,1.0,Tynwald,0.849,Pound sterlingManx pound ,7430000000.0,,0.41
+173,Jan Mayen,Europe,0.0,,,,CET (UTC+1),124100.0,,,,,,,
+174,Jersey,Europe,107800.0,English,left,44,UTC±00:00 (GMT),118.2,0.0,States Assembly,0.985,Pound sterlingJersey pound ,6000000000.0,,0.3
+175,Svalbard,Europe,2939.0,Norwegian,right,47,UTC+01:00 (CET),61022.0,,,,Norwegian krone ,,,
+176,Åland Islands,Europe,30129.0,Swedish,right,35818,UTC+02:00 (EET),1580.0,,Lagting,0.9,Euro ,1563000000.0,,
+177,Antigua and Barbuda,NorthAmerica,97000.0,,left,1268,UTC-4 (AST),440.0,0.0,Parliament,0.778,East Caribbean dollar ,2731000000.0,1717000000.0,
+178,The Bahamas,NorthAmerica,385637.0,English,left,1242,UTC−5 (EST),13878.0,28.0,Parliament,0.814,Bahamian dollar ,12612000000.0,12803000000.0,
+179,Barbados,NorthAmerica,287025.0,English,left,1246,UTC−4 (AST),439.0,,Parliament,0.814,Barbadian dollar ,5398000000.0,5207000000.0,
+180,Belize,NorthAmerica,419199.0,English,right,501,UTC-6 (CST (GMT-6)[11]),22966.0,0.8,National assembly,0.716,Belize dollar ,3484000000.0,1987000000.0,53.1
+181,Canada,NorthAmerica,38246108.0,English,right,1,UTC−3.5 to −8,9984670.0,11.76,Parliament,0.929,Canadian dollar ,2027000000000.0002,2016000000000.0,30.3
+182,Costa Rica,NorthAmerica,5094118.0,Spanish,right,506,UTC−6 (CST),51100.0,1.05,Legislative Assembly,0.81,Costa Rican colón ,95791000000.0,65179000000.0,49.7
+183,Cuba,NorthAmerica,11181595.0,Spanish,right,53,UTC−5 (CST),109884.0,0.0,National Assembly of People's Power,0.783,Cuban peso ,,,38.0
+184,Dominica,NorthAmerica,71625.0,English,left,1767,UTC–4 (AST),750.0,1.6,House of Assembly of Dominica,0.742,East Caribbean dollar ,688000000.0,485000000.0,
+185,Dominican Republic,NorthAmerica,10878246.0,Spanish,right,1809,UTC – 4:00[4] (Atlantic Standard Time),48671.0,,Congress,0.756,Dominican peso[5] ,215999000000.0,96291000000.0,43.7
+186,El Salvador,NorthAmerica,6830000.0,Spanish,right,503,UTC−6 (CST),21041.0,1.5,Legislative Assembly,0.673,United States dollar ,53667000000.0,25855000000.0,38.8
+187,Grenada,NorthAmerica,111454.0,English,left,1473,UTC−4 (AST),348.5,1.6,Parliament,0.779,East Caribbean dollar ,1801000000.0,1249000000.0,
+188,Guatemala,NorthAmerica,17263239.0,Spanish,right,502,UTC−6 (CST),108889.0,0.4,Congress of the Republic,0.663,Quetzal ,145249000000.0,79109000000.0,48.3
+189,Haiti,NorthAmerica,11439646.0,French,right,509,UTC−5 (EST),27750.0,0.7,Parliament,0.51,Gourde ,34189000000.0,22431000000.0,41.1
+190,Honduras,NorthAmerica,9587522.0,Spanish,right,504,UTC−6 (CST),112492.0,,National Congress,0.632,Lempira ,49010000000.0,23835000000.0,52.1
+191,Jamaica,NorthAmerica,2726667.0,English,left,1876,UTC-5,10991.0,1.5,Parliament,0.734,Jamaican dollar ,26981000000.0,15424000000.0,35.0
+192,Mexico,NorthAmerica,126014024.0,federal level,right,52,UTC−8 to −5 (See Time in Mexico),1972550.0,1.58,Congress,0.779,Mexican peso ,2715000000000.0,1322000000000.0,41.8
+193,Nicaragua,NorthAmerica,6486201.0,Spanish,right,505,UTC−6 (CST),130375.0,7.14,National Assembly,0.66,Córdoba ,35757000000.0,13380000000.0,46.2
+194,Panama,NorthAmerica,4379039.0,Spanish,right,507,UTC−5 (EST),75417.0,2.9,National Assembly,0.815,Balboa ,121749000000.0,73369000000.0,49.9
+195,Saint Kitts and Nevis,NorthAmerica,52441.0,English,left,1869,UTC-4 (AST),261.0,,National Assembly,0.779,East Caribbean dollar ,1758000000.0,1058000000.0,
+196,Saint Lucia,NorthAmerica,184401.0,English,left,1758,UTC−4 (AST),617.0,1.6,Parliament,0.759,East Caribbean dollar ,2480000000.0,1770000000.0,51.2
+197,Saint Vincent and the Grenadines,NorthAmerica,110211.0,English,left,1784,UTC-4 (AST),389.0,0.0,House of Assembly,0.738,East Caribbean dollar ,1373000000.0,864000000.0,
+198,Trinidad and Tobago,NorthAmerica,1367558.0,English,left,1,UTC-4 (AST),5131.0,0.0,Parliament,0.796,Trinidad and Tobago dollar ,45148000000.0,22438000000.0,39.0
+199,United States,NorthAmerica,331449281.0,None at the federal level,right,1,"UTC−4 to −12, +10, +11",3796742.0,,Congress,0.926,U.S. dollar ,22940000000000.0,22940000000000.0,48.5
+200,Anguilla,NorthAmerica,14731.0,,left,1264,UTC–4 (AST),91.0,0.0,House of Assembly,,Eastern Caribbean dollar ,311000000.0,,
+201,Aruba,NorthAmerica,116576.0,Dutch,right,297,UTC-4:00 (AST),180.0,0.0,Parliament of Aruba,,Aruban florin ,4400000000.0,3400000000.0,
+202,Bermuda,NorthAmerica,63913.0,English,left,1441,UTC−04:00 (AST[4]),53.2,27.0,Parliament,,Bermudian dollar ,,,
+203,Bonaire,NorthAmerica,20104.0,,,5997,UTC−4 (AST),,,,,US dollar ,,,
+204,British Virgin Islands,NorthAmerica,30030.0,English,left,1284,UTC-4:00 (AST),153.0,1.6,House of Assembly,,United States dollar ,500000000.0,,
+205,Cayman Islands,NorthAmerica,71100.0,English,left,1345,UTC-5:00 (EST),264.0,1.6,Parliament,,Cayman Islands dollar ,2507000000.0,,
+206,Clipperton Island,NorthAmerica,,,,,CIST (UTC-8),29.0,,,,,,,
+207,Curaçao,NorthAmerica,155000.0,Dutch,right,5999,UTC-4:00 (AST),444.0,,Parliament of Curaçao,0.811,Netherlands Antillean guilder ,5500000000.0,3500000000.0,
+208,Guadeloupe,NorthAmerica,400201.0,,,,UTC– 04:00 (AST),1628.0,,,,,,,
+209,Martinique,NorthAmerica,375053.0,,,,UTC−04:00 (ECT),1128.0,,,,,,,
+210,Montserrat,NorthAmerica,4649.0,English,left,1664,UTC-4:00 (AST),102.0,0.0,Legislative Assembly,,East Caribbean dollar ,,,
+211,Navassa Island,NorthAmerica,,,,,,4.7,,,,,,,
+212,Puerto Rico,NorthAmerica,3285874.0,Spanish,right,1,UTC-04:00 (AST),9104.0,1.6,Legislative Assembly,0.845,United States dollar ,112273000000.0,100684000000.0,53.1
+213,Saba,NorthAmerica,1933.0,,,5994,UTC−4 (AST),,,,,United States dollar ,,,
+214,Saint Barthélemy,NorthAmerica,9961.0,French,right,590,UTC-4:00 (AST),25.0,0.0,Territorial Council,,Euro ,,,
+215,Collectivity of Saint Martin,NorthAmerica,34065.0,French,right,590,UTC-4:00 (AST),53.2,0.0,,,Euro ,,,
+216,Saint Pierre and Miquelon,NorthAmerica,5997.0,French,right,508,UTC–03:00,242.0,0.0,Territorial Council,,Euro ,,,
+217,Sint Eustatius,NorthAmerica,3138.0,,,5993,UTC−4 (AST),,,,,United States dollar ,,,
+218,Sint Maarten,NorthAmerica,41486.0,Dutch,right,1721,UTC-4:00 (AST),34.0,,Parliament of Sint Maarten,,Netherlands Antillean guilder ,1436000000.0,,
+219,Turks and Caicos Islands,NorthAmerica,42953.0,English,left,1649,UTC-05:00 (EST),948.0,0.0,House of Assembly,,United States dollar ,,,
+220,United States Virgin Islands,NorthAmerica,105870.0,English,left,1340,UTC−4:00 (AST),346.4,0.0,Legislature of the Virgin Islands,,United States dollar ,4580000000.0,,
+221,Australia,Oceania,25902500.0,federal level,left,61,UTC+8,7692024.0,1.79,Parliament,0.944,Australian dollar ,1427000000000.0,1611000000000.0,32.5
+222,Fiji,Oceania,926276.0,Fijian,left,679,UTC+12 (FJT),18274.0,0.0,Parliament,0.743,Fijian dollar ,9112000000.0,5223000000.0,36.4
+223,Kiribati,Oceania,119940.0,English,left,686,"UTC+12, +13, +14",811.0,,House of Assembly,0.63,Australian dollar[10] ,255000000.0,187000000.0,
+224,Marshall Islands,Oceania,58413.0,Marshallese,right,692,UTC+12 (MHT),181.43,,Nitijela,0.704,United States dollar ,215000000.0,220000000.0,
+225,Federated States of Micronesia,Oceania,104468.0,English,right,691,UTC+10 and +11,702.0,0.0,Congress,0.62,United States dollar ,367000000.0,383000000.0,40.1
+226,Nauru,Oceania,10670.0,Nauruan,left,674,UTC+12[8],21.0,0.57,Parliament,,Australian dollar ,160000000.0,114000000.0,
+227,New Zealand,Oceania,5135660.0,English,left,64,UTC+12 (NZST[n 5]),268021.0,,Parliament,0.931,New Zealand dollar ,226566000000.0,243332000000.0,33.9
+228,Palau,Oceania,17907.0,Palauan,right,680,UTC+9 (PWT),459.0,0.0,Olbiil era Kelulau,0.826,United States dollar ,300000000.0,322000000.0,
+229,Papua New Guinea,Oceania,8935000.0,English,left,675,"UTC+10, +11 (AEST)",462840.0,2.0,National Parliament,0.555,Kina ,32381999999.999996,21543000000.0,41.9
+230,Samoa,Oceania,202506.0,Samoan,lefte,685,UTC+13c (WST),2842.0,0.3,Legislative Assembly,0.715,Tālā ,1188000000.0,881000000.0,38.7
+231,Solomon Islands,Oceania,652857.0,English,left,677,UTC+11,28400.0,3.2,National Parliament,0.567,Solomon Islands dollar ,1479000000.0,1511000000.0,37.1
+232,Tonga,Oceania,100651.0,English,left,676,UTC+13,748.0,4.0,Legislative Assembly,0.725,Paʻanga ,655000000.0,493000000.0,37.6
+233,Tuvalu,Oceania,11646.0,Tuvaluan,left,688,UTC+12,26.0,0.0,Parliament,,Tuvaluan dollar Australian dollar  ,39000000.0,45000000.0,39.1
+234,Vanuatu,Oceania,307815.0,Bislama,right,678,UTC+11 (VUT (Vanuatu Time)),12189.0,,Parliament,0.609,Vatu ,820000000.0,957000000.0,37.6
+235,Cook Islands,Oceania,17459.0,English,left,682,UTC-10 (CKT),236.7,,Parliament,,New Zealand dollar ,,,
+236,Niue,Oceania,1620.0,English,left,683,UTC−11,261.46,0.0,Niue Assembly,,New Zealand dollar[a] ,10000000.0,43536000.0,
+237,American Samoa,Oceania,46366.0,English,right,1684,UTC−11:00 (SST),77.0,,Fono,,United States dollar ,658000000.0,,
+238,Baker Island,Oceania,0.0,,,,International Date Line West (UTC-12:00),1.81,,,,,,,
+239,Coral Sea Islands,Oceania,0.0,,,,,,,,,,,,
+240,French Polynesia,Oceania,275918.0,French,right,689,UTC−10:00,4167.0,12.0,Assembly of French Polynesia,,CFP franc ,,,
+241,Guam,Oceania,168801.0,English,right,1671,UTC+10:00 (ChST),540.0,,Legislature of Guam,,United States dollar ,5790000000.0,,
+242,Howland Island,Oceania,0.0,,,,IDLW/Yankee Time Zone (UTC−12:00),,,,,,,,
+243,Jarvis Island,Oceania,0.0,,,,Samoa Time Zone (UTC-11:00),3.26,,,,,,,
+244,Johnston Atoll,Oceania,0.0,,,,UTC-10 (Hawaii–Aleutian Time Zone),1.03,,,,,,,
+245,Kingman Reef,Oceania,,,,,,,,,,,,,
+246,Midway Atoll,Oceania,40.0,,,,Samoa Time (UTC-11),5.0,,,,,,,
+247,New Caledonia,Oceania,271407.0,French,right,687,UTC+11:00,18576.0,1.6,Congress of New Caledonia,,CFP franc ,,,
+248,Norfolk Island,Oceania,1748.0,English,left,672,UTC+11:00 (NFT),34.6,0.0,,,Australian dollar ,,,
+249,Northern Mariana Islands,Oceania,51659.0,English,right,1670,UTC+10:00 (ChST),464.0,0.0,Commonwealth Legislature,,United States dollar ,1240000000.0,,
+250,Palmyra Atoll,Oceania,0.0,,,,UTC−11 (Samoa Time Zone),4.6,,,,US dollar ,,,
+251,Pitcairn Islands,Oceania,47.0,Pitkern,left,64,UTC-08:00,47.0,0.0,Island Council,,New Zealand dollar ,,,
+252,Tokelau,Oceania,1499.0,Tokelauan,left,690,UTC+13:00,10.0,0.0,General Fono,,New Zealand dollar ,,,
+253,Wake Island,Oceania,0.0,,,,UTC+12 (Wake Island Time Zone),5.35,,,,U.S. dollar ,,,
+254,Wallis and Futuna,Oceania,11558.0,French,right,681,UTC+12:00,142.42,0.0,Territorial Assembly,,CFP franc ,,188000000.0,
+255,Argentina,SouthAmerica,45605826.0,Spanish,right,54,UTC−3 (ART),2780400.0,1.57,National Congress,0.845,Argentine peso ,1032999999999.9999,444458000000.0,42.9
+256,Bolivia,SouthAmerica,11428245.0,Spanish,right,591,UTC−4 (BOT),1098581.0,1.29,Plurinational Legislative Assembly,0.718,Boliviano ,89018000000.0,40687000000.0,41.6
+257,Brazil,SouthAmerica,210147125.0,Portuguese,right,55,UTC−2 to −5 (BRT),8515767.0,0.65,National Congress,0.765,Real ,3328000000000.0,1491000000000.0,53.4
+258,Chile,SouthAmerica,17574003.0,,right,56,UTC−4 and −6 (CLT and EASTc),756096.3,2.1,National Congress,0.851,Chilean peso ,456394000000.0,245414000000.0,46.0
+259,Colombia,SouthAmerica,50372424.0,Spanish,right,57,UTC−5[b] (COT),1141748.0,2.1,Congress,0.767,Colombian peso ,827662000000.0,343177000000.0,51.3
+260,Ecuador,SouthAmerica,17715822.0,Spanish,right,593,UTC−5 / −6 (ECT / GALT),283561.0,5.0,National Assembly,0.759,United States dollarb ,202043000000.0,106289000000.0,45.4
+261,Guyana,SouthAmerica,743700.0,English,left,592,UTC-4 (AST),214970.0,8.4,National Assembly,0.682,Guyanese dollar ,18357000000.0,7255000000.0,44.6
+262,Paraguay,SouthAmerica,7359000.0,Spanish,right,595,UTC–4 (PYT),406796.0,2.6,Congress,0.728,Guaraní ,101075000000.0,44557000000.0,46.2
+263,Peru,SouthAmerica,34294231.0,Spanish,right,51,UTC−5 (PET),1285216.0,0.41,Congress of the Republic,0.777,Sol ,385719000000.0,195761000000.0,41.5
+264,Suriname,SouthAmerica,575990.0,Dutch,left,597,UTC-3 (SRT),163821.0,1.1,National Assembly,0.738,Surinamese dollar ,9044000000.0,4110000000.0000005,
+265,Uruguay,SouthAmerica,3518552.0,Spanish,right,598,UTC−3 (UYT),176215.0,1.5,General Assembly,0.817,Uruguayan peso ,86562000000.0,62917000000.0,39.7
+266,Venezuela,SouthAmerica,28887118.0,Spanish,right,58,UTC−4 (VET),916445.0,3.2,National Assembly,0.711,Bolívar digital ,142416000000.0,44893000000.0,44.8
+267,Falkland Islands,SouthAmerica,3398.0,English,left,500,UTC-03:00 (FKST),12200.0,0.0,Legislative Assembly,0.874,Falkland Islands pound ,228500000.0,,36.0
+268,French Guiana,SouthAmerica,294071.0,,,,UTC−03:00 (GFT),91000.0,,,,,,,
+269,South Georgia and the South Sandwich Islands,SouthAmerica,,English,left,500,UTC−02:00,3903.0,,,,Falkland Islands pound ,,,
